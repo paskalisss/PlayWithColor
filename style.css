@@ -8,7 +8,7 @@ h1{
     display: flex;
     justify-content: center;
 }
-.slidercontainer {
+.slider-container {
     display: flex;
     justify-content: center;
     margin-top: 20px;
